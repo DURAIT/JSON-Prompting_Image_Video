@@ -1,0 +1,227 @@
+{
+  "framework": "SCALE",
+  "title": "Authentic Tamil Nadu Chettinad Heritage - 5 Second Video",
+
+  "subject": {
+    "primary": "A traditional Tamil Chettiar family in authentic Chettinad attire",
+    "people": [
+      {
+        "gender": "male",
+        "age": "middle-aged",
+        "clothing": "white veshti and crisp white shirt, traditional angavastram",
+        "details": "simple gold ring and traditional sandals"
+      },
+      {
+        "gender": "female",
+        "age": "middle-aged",
+        "clothing": "traditional Chettinad cotton saree with muted earthy checks and borders",
+        "details": "jasmine flowers in braided hair, traditional gold jewellery"
+      },
+      {
+        "gender": "child",
+        "clothing": "traditional Tamil clothing appropriate to the period"
+      }
+    ],
+    "cultural_details": [
+      "authentic Tamil facial features and natural expressions",
+      "traditional jasmine garlands",
+      "subtle traditional gold jewellery",
+      "no modern fashion elements",
+      "no Western clothing",
+      "no stereotypical costume styling"
+    ]
+  },
+
+  "composition": {
+    "framing": "wide cinematic environmental portrait",
+    "camera_position": "eye-level, slightly inside the entrance courtyard",
+    "foreground": "traditional kolam drawn with rice flour on the Athangudi-tile floor",
+    "midground": "family naturally interacting in the central courtyard",
+    "background": "ornate Chettinad mansion with wooden pillars, carved doors and open courtyard",
+    "depth": "strong architectural depth with repeating columns and long corridors",
+    "visual_balance": "family occupies the central third while architecture establishes the cultural context",
+    "composition_style": "documentary photography rather than staged studio portrait"
+  },
+
+  "action": {
+    "primary_action": "the family is preparing for a traditional Tamil morning ritual",
+    "details": [
+      "woman gently arranging fresh jasmine flowers",
+      "man naturally adjusting his angavastram",
+      "child slowly observing the kolam",
+      "subtle household activity in the background",
+      "natural candid interaction between family members"
+    ],
+    "movement": "quiet, everyday domestic movement",
+    "expression": "warm, relaxed and authentic"
+  },
+
+  "location": {
+    "real_place": "Kanadukathan, Chettinad, Sivaganga district, Tamil Nadu, India",
+    "architectural_reference": "authentic Chettinad mansion streets around Kanadukathan",
+    "architecture": [
+      "large Chettinad courtyard house",
+      "Athangudi patterned floor tiles",
+      "hand-carved Burmese teak wooden doors",
+      "ornamental wooden pillars",
+      "high ceilings",
+      "long pillared corridors",
+      "traditional lime-plastered walls",
+      "inner open-air courtyard",
+      "brass vessels",
+      "traditional wooden furniture"
+    ],
+    "environment": "quiet heritage street with neighboring Chettinad mansions visible beyond the entrance",
+    "avoid": [
+      "modern apartment buildings",
+      "contemporary villas",
+      "generic South Indian temple architecture",
+      "North Indian architecture",
+      "tourist resort styling"
+    ]
+  },
+
+  "time_of_day": {
+    "specific_time": "7:15 AM",
+    "season": "early January",
+    "historical_context": "contemporary Tamil Nadu with traditional cultural practices preserved naturally"
+  },
+
+  "lighting": {
+    "source": "soft early-morning natural sunlight",
+    "direction": "warm sunlight entering the courtyard from the east",
+    "quality": "diffused golden morning light with gentle shadows",
+    "atmosphere": "slightly hazy rural morning air",
+    "interior_exterior_balance": "natural contrast between sunlit courtyard and shaded corridors",
+    "avoid": [
+      "studio lighting",
+      "dramatic artificial rim lighting",
+      "neon lighting",
+      "overly orange cinematic grading"
+    ]
+  },
+
+  "camera": {
+    "type": "full-frame professional mirrorless camera",
+    "lens": "35mm prime lens",
+    "aperture": "f/4",
+    "shutter": "1/250s",
+    "iso": "ISO 200",
+    "focus": "natural deep focus with family and architecture clearly recognizable",
+    "perspective": "realistic human-eye perspective",
+    "depth_of_field": "moderate depth of field",
+    "image_quality": "high-resolution photorealistic documentary video"
+  },
+
+  "palette": {
+    "primary": [
+      "earthy terracotta",
+      "aged ivory",
+      "deep teak brown",
+      "muted turmeric yellow",
+      "brick red",
+      "natural cotton white"
+    ],
+    "accent": [
+      "subtle traditional gold",
+      "leaf green",
+      "Athangudi tile blues and reds"
+    ],
+    "saturation": "natural and moderately muted",
+    "avoid": [
+      "neon colors",
+      "oversaturated festival colors",
+      "artificial HDR colors"
+    ]
+  },
+
+  "style": {
+    "medium": "photorealistic documentary cinematography",
+    "visual_reference": "heritage architectural cinematography combined with intimate Tamil cultural documentary filmmaking",
+    "mood": "warm, dignified, nostalgic and lived-in",
+    "texture": "realistic aged wood, lime plaster, cotton fabric, stone and tile textures",
+    "authenticity": "ethnographically grounded Tamil Nadu cultural representation",
+    "imperfections": "include natural signs of age, weathering and everyday use",
+    "motion_style": "subtle realistic human movement with physically accurate motion",
+    "avoid": [
+      "Bollywood styling",
+      "generic Indian stock footage",
+      "fantasy India",
+      "excessive cinematic effects",
+      "plastic-looking skin",
+      "AI-perfect architecture",
+      "overly posed people"
+    ]
+  },
+
+  "aspect_ratio": {
+    "ratio": "16:9",
+    "orientation": "landscape",
+    "intended_use": "cinematic cultural heritage video"
+  },
+
+  "motion": {
+    "subject_motion": "The woman gently moves her hands while arranging jasmine flowers; the jasmine strands sway naturally. The man makes a small natural adjustment to his angavastram. The child takes one slow step toward the kolam and looks down at it. Clothing edges and jasmine flowers respond subtly to a gentle morning breeze. All facial expressions remain natural and calm. Background household activity moves very subtly. No exaggerated gestures or sudden movements.",
+
+    "camera_move": "A slow, smooth cinematic dolly-in of approximately 1 meter toward the family from the courtyard entrance, maintaining the original eye-level perspective and 35mm field of view. Very subtle natural handheld micro-movement, stabilized and documentary-like. Keep the Chettinad architecture stable and geometrically accurate throughout the shot.",
+
+    "environment_motion": "Soft morning breeze gently moves jasmine flowers, saree fabric and the angavastram. A few leaves in the background move slightly. Natural ambient movement only; architecture and major objects remain stationary.",
+
+    "duration_seconds": 5
+  },
+
+  "video_continuity": {
+    "preserve_original_scene": true,
+    "preserve_subject_identity": true,
+    "preserve_clothing": true,
+    "preserve_architecture": true,
+    "preserve_lighting": true,
+    "preserve_color_palette": true,
+    "preserve_composition": true,
+    "no_scene_change": true,
+    "no_time_jump": true,
+    "no_new_characters": true,
+    "no_object_transformation": true
+  },
+
+  "negative_prompt": [
+    "scene change",
+    "location change",
+    "new characters",
+    "modern clothing",
+    "Western clothing",
+    "modern buildings",
+    "architecture deformation",
+    "moving walls",
+    "changing floor patterns",
+    "changing faces",
+    "face morphing",
+    "identity change",
+    "body deformation",
+    "extra fingers",
+    "extra limbs",
+    "floating objects",
+    "unnatural walking",
+    "exaggerated gestures",
+    "fast camera movement",
+    "camera shake",
+    "zoom effect",
+    "time-lapse",
+    "slow motion",
+    "fantasy effects",
+    "artificial particles",
+    "neon colors",
+    "oversaturated colors",
+    "Bollywood aesthetic",
+    "generic Indian village",
+    "tourist performance",
+    "AI-generated appearance",
+    "plastic skin",
+    "flickering",
+    "texture swimming",
+    "warped architecture",
+    "temporal inconsistency",
+    "watermark",
+    "text"
+  ]
+}
