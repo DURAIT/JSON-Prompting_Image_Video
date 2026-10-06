@@ -1,0 +1,186 @@
+{
+  "framework": "SCALE",
+  "title": "Authentic Tamil Nadu Chettinad Heritage",
+  "subject": {
+    "primary": "A traditional Tamil Chettiar family in authentic Chettinad attire",
+    "people": [
+      {
+        "gender": "male",
+        "age": "middle-aged",
+        "clothing": "white veshti and crisp white shirt, traditional angavastram",
+        "details": "simple gold ring and traditional sandals"
+      },
+      {
+        "gender": "female",
+        "age": "middle-aged",
+        "clothing": "traditional Chettinad cotton saree with muted earthy checks and borders",
+        "details": "jasmine flowers in braided hair, traditional gold jewellery"
+      },
+      {
+        "gender": "child",
+        "clothing": "traditional Tamil festive clothing appropriate to the period"
+      }
+    ],
+    "cultural_details": [
+      "authentic Tamil facial features and natural expressions",
+      "traditional jasmine garlands",
+      "subtle traditional gold jewellery",
+      "no modern fashion elements",
+      "no Western clothing",
+      "no stereotypical costume styling"
+    ]
+  },
+
+  "composition": {
+    "framing": "wide cinematic environmental portrait",
+    "camera_position": "eye-level, slightly inside the entrance courtyard",
+    "foreground": "traditional kolam drawn with rice flour on the Athangudi-tile floor",
+    "midground": "family naturally interacting in the central courtyard",
+    "background": "ornate Chettinad mansion with wooden pillars, carved doors and open courtyard",
+    "depth": "strong architectural depth with repeating columns and long corridors",
+    "visual_balance": "family occupies the central third while architecture establishes the cultural context",
+    "composition_style": "documentary photography rather than staged studio portrait"
+  },
+
+  "action": {
+    "primary_action": "the family is preparing for a traditional Tamil morning ritual",
+    "details": [
+      "woman arranging fresh jasmine flowers",
+      "man standing naturally near the courtyard pillar",
+      "child observing the kolam",
+      "subtle household activity in the background",
+      "natural candid interaction between family members"
+    ],
+    "movement": "quiet, everyday domestic movement",
+    "expression": "warm, relaxed and authentic"
+  },
+
+  "location": {
+    "real_place": "Kanadukathan, Chettinad, Sivaganga district, Tamil Nadu, India",
+    "architectural_reference": "authentic Chettinad mansion streets around Kanadukathan",
+    "architecture": [
+      "large Chettinad courtyard house",
+      "Athangudi patterned floor tiles",
+      "hand-carved Burmese teak wooden doors",
+      "ornamental wooden pillars",
+      "high ceilings",
+      "long pillared corridors",
+      "traditional lime-plastered walls",
+      "inner open-air courtyard",
+      "brass vessels",
+      "traditional wooden furniture"
+    ],
+    "environment": "quiet heritage street with neighboring Chettinad mansions visible beyond the entrance",
+    "avoid": [
+      "modern apartment buildings",
+      "contemporary villas",
+      "generic South Indian temple architecture",
+      "North Indian architecture",
+      "tourist resort styling"
+    ]
+  },
+
+  "time_of_day": {
+    "specific_time": "7:15 AM",
+    "season": "early January",
+    "historical_context": "contemporary Tamil Nadu with traditional cultural practices preserved naturally"
+  },
+
+  "lighting": {
+    "source": "soft early-morning natural sunlight",
+    "direction": "warm sunlight entering the courtyard from the east",
+    "quality": "diffused golden morning light with gentle shadows",
+    "atmosphere": "slightly hazy rural morning air",
+    "interior_exterior_balance": "natural contrast between sunlit courtyard and shaded corridors",
+    "avoid": [
+      "studio lighting",
+      "dramatic artificial rim lighting",
+      "neon lighting",
+      "overly orange cinematic grading"
+    ]
+  },
+
+  "camera": {
+    "type": "full-frame professional mirrorless camera",
+    "lens": "35mm prime lens",
+    "aperture": "f/4",
+    "shutter": "1/250s",
+    "iso": "ISO 200",
+    "focus": "natural deep focus with family and architecture clearly recognizable",
+    "perspective": "realistic human-eye perspective",
+    "depth_of_field": "moderate depth of field",
+    "image_quality": "high-resolution photorealistic documentary photography"
+  },
+
+  "palette": {
+    "primary": [
+      "earthy terracotta",
+      "aged ivory",
+      "deep teak brown",
+      "muted turmeric yellow",
+      "brick red",
+      "natural cotton white"
+    ],
+    "accent": [
+      "subtle traditional gold",
+      "leaf green",
+      "Athangudi tile blues and reds"
+    ],
+    "saturation": "natural and moderately muted",
+    "avoid": [
+      "neon colors",
+      "oversaturated festival colors",
+      "artificial HDR colors"
+    ]
+  },
+
+  "style": {
+    "medium": "photorealistic documentary photography",
+    "visual_reference": "heritage architectural photography combined with intimate cultural documentary photography",
+    "mood": "warm, dignified, nostalgic and lived-in",
+    "texture": "realistic aged wood, lime plaster, cotton fabric, stone and tile textures",
+    "authenticity": "ethnographically grounded Tamil Nadu cultural representation",
+    "imperfections": "include natural signs of age, weathering and everyday use",
+    "avoid": [
+      "Bollywood styling",
+      "generic Indian stock photography",
+      "fantasy India",
+      "excessive cinematic effects",
+      "plastic-looking skin",
+      "AI-perfect architecture",
+      "overly posed people"
+    ]
+  },
+
+  "aspect_ratio": {
+    "ratio": "16:9",
+    "orientation": "landscape",
+    "intended_use": "cinematic cultural heritage scene"
+  },
+
+  "negative_prompt": [
+    "modern clothing",
+    "Western clothing",
+    "generic Indian architecture",
+    "North Indian architecture",
+    "modern furniture",
+    "plastic decorations",
+    "neon colors",
+    "tourist costumes",
+    "Bollywood aesthetic",
+    "overly elaborate temple costumes",
+    "incorrect saree draping",
+    "incorrect veshti styling",
+    "modern buildings",
+    "cars dominating the scene",
+    "text",
+    "watermark",
+    "artificial HDR",
+    "oversaturated colors",
+    "fantasy architecture",
+    "distorted hands",
+    "extra fingers",
+    "plastic skin",
+    "unrealistic faces"
+  ]
+}
